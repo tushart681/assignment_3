@@ -1,0 +1,14 @@
+.feedback{
+    <div class="carousel-item active" data-bs-interval="10000">
+                                <img src="images/student/student-5.png" alt="...">
+                            </div>
+}
+footer{
+    <div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">Special title treatment</h5>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+}
